@@ -1,0 +1,26 @@
+# Node.js
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# Environment variables
+backend/.env
+.env
+
+# Java / Maven
+backend/target/
+
+# H2 Database
+backend/data/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
